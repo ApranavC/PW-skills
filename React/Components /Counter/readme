@@ -1,1 +1,3 @@
-
+Location of Couter = ./components/counter.jsx.
+app.css applies CSS to the Counter component.
+Rest elements are using by default CSS by vite js.
