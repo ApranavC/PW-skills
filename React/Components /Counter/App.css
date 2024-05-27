@@ -1,0 +1,19 @@
+*{
+    align-items: center;
+    justify-content: center;
+}
+div{
+    text-align: center;
+    margin: 20px;
+}
+button{
+    margin: 10px 2px 0 0;
+}
+.operatorbtn{
+    height: 50px;
+    width: 50px;
+}
+.resetbtn{
+    height: 50px;
+    width: 100px;
+}
